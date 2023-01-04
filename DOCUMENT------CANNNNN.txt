@@ -1,0 +1,3 @@
+0. Đổi php version ở env window
+1. Tạo password người dùng bằng Hash, bcrypt ở tinker
+2. Tạo quyền admin và  gán vào user để tạo được sản phẩm
